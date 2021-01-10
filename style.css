@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(147, 255, 147);
+}
+
+p{
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(119, 119, 192);
+}
+
+ul li{
+    background-color: rgb(186, 253, 78);
+    text-transform: uppercase;
+}
